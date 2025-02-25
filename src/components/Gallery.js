@@ -37,6 +37,19 @@ const ImgBox = styled.div`
 const ImgList = styled.ul`
   overflow-x: auto;
   white-space: nowrap;
+  padding-bottom: 3px;
+  font-size: 0;
+  &::-webkit-scrollbar {
+    height: 5px;
+    border-radius: 10px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #9999;
+    border-radius: 10px;
+  }
+  &::-webkit-scrollbar-track {
+    background: #fff;
+  }
   & > li {
     display: inline-block;
     margin: 0;
