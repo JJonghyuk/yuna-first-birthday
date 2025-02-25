@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yuna-first-birthday.git/static/css/main.a0079a8b.css",
+    "main.js": "/yuna-first-birthday.git/static/js/main.afdf7d46.js",
+    "static/media/bg_frame.webp": "/yuna-first-birthday.git/static/media/bg_frame.2c00af3a8f17fc224e9d.webp",
+    "static/media/img_dummy01.webp": "/yuna-first-birthday.git/static/media/img_dummy01.6b831624ae6f9369bdfb.webp",
+    "static/media/img_top.webp": "/yuna-first-birthday.git/static/media/img_top.3de8a5c4b885a616dfef.webp",
+    "static/media/img_bt.webp": "/yuna-first-birthday.git/static/media/img_bt.6d33c19009cfd7ed841d.webp",
+    "static/media/bg_obj1.webp": "/yuna-first-birthday.git/static/media/bg_obj1.e2822e2f1c942b19d737.webp",
+    "static/media/bg_obj2.webp": "/yuna-first-birthday.git/static/media/bg_obj2.2674d962bb72abdf700f.webp",
+    "static/media/bg_obj3.webp": "/yuna-first-birthday.git/static/media/bg_obj3.34f51597f9c481563098.webp",
+    "static/media/img_deco.webp": "/yuna-first-birthday.git/static/media/img_deco.2004ae734b5a2b369edb.webp",
+    "index.html": "/yuna-first-birthday.git/index.html",
+    "main.a0079a8b.css.map": "/yuna-first-birthday.git/static/css/main.a0079a8b.css.map",
+    "main.afdf7d46.js.map": "/yuna-first-birthday.git/static/js/main.afdf7d46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0079a8b.css",
+    "static/js/main.afdf7d46.js"
+  ]
+}
