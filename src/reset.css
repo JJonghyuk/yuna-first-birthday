@@ -90,6 +90,9 @@ video {
   font-weight: 400;
   color: #222;
 }
+body {
+  touch-action: manipulation;
+}
 article,
 aside,
 details,
