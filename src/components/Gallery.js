@@ -37,7 +37,7 @@ const ImgBox = styled.div`
 const ImgList = styled.ul`
   overflow-x: auto;
   white-space: nowrap;
-  padding-bottom: 3px;
+  padding-bottom: 5px;
   font-size: 0;
   &::-webkit-scrollbar {
     height: 5px;
@@ -54,6 +54,12 @@ const ImgList = styled.ul`
     display: inline-block;
     margin: 0;
   }
+`;
+
+const ImgDesc = styled.p`
+  color: #999;
+  font-size: 12px;
+  text-align: left;
 `;
 
 const SubTitle = styled.h2`
@@ -96,6 +102,7 @@ function Gallery({
   imgSrc05,
   imgSrc06,
   imgSrc07,
+  imgInfo,
 }) {
   return (
     <Box>
@@ -124,6 +131,7 @@ function Gallery({
             <Img src={imgSrc07} />
           </li>
         </ImgList>
+        <ImgDesc>{imgInfo}</ImgDesc>
       </ImgBox>
     </Box>
   );

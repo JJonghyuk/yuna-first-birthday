@@ -69,11 +69,12 @@ function Home() {
         imgSrc05={GalleryImg05}
         imgSrc06={GalleryImg06}
         imgSrc07={GalleryImg07}
+        imgInfo={"*이미지를 스크롤하세요."}
       />
       <Calendar subTitle={"캘린더"} />
       <Map
         subTitle={"오시는길"}
-        mapInfo={"* 네이버 지도 바로가기"}
+        mapInfo={"*네이버 지도 바로가기"}
         subwayInfo={"[3호선 원흥역] 1번 출구 도보 6분"}
         parkingInfo={"호텔 건물내에 주차"}
       />
