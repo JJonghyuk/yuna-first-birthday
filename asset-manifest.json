@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yuna-first-birthday/static/css/main.a0079a8b.css",
+    "main.css": "/yuna-first-birthday/static/css/main.afa7073f.css",
     "main.js": "/yuna-first-birthday/static/js/main.619c705a.js",
     "static/media/bg_frame.webp": "/yuna-first-birthday/static/media/bg_frame.2c00af3a8f17fc224e9d.webp",
     "static/media/img_map.png": "/yuna-first-birthday/static/media/img_map.11a666fa027b90991820.png",
@@ -18,11 +18,11 @@
     "static/media/bg_obj3.webp": "/yuna-first-birthday/static/media/bg_obj3.34f51597f9c481563098.webp",
     "static/media/img_deco.webp": "/yuna-first-birthday/static/media/img_deco.2004ae734b5a2b369edb.webp",
     "index.html": "/yuna-first-birthday/index.html",
-    "main.a0079a8b.css.map": "/yuna-first-birthday/static/css/main.a0079a8b.css.map",
+    "main.afa7073f.css.map": "/yuna-first-birthday/static/css/main.afa7073f.css.map",
     "main.619c705a.js.map": "/yuna-first-birthday/static/js/main.619c705a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0079a8b.css",
+    "static/css/main.afa7073f.css",
     "static/js/main.619c705a.js"
   ]
 }
